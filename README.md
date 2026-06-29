@@ -1,6 +1,6 @@
 _**Donation Website Design**_
 
-This is an internship based task given by Sparks Foundation where one had to develop a website related to Donation based.
+This is an internship-based task given by Sparks Foundation where one had to develop a website related to donation-based.
 
 ## 🛠️ Built With
 HTML: Structure and content of the form. 
